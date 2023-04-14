@@ -3,5 +3,8 @@
 
 QNAS4采用3D打印的外壳可以满足个性化DIY需求
 
+视频地址：
+https://www.bilibili.com/video/BV1Kg411z7EG/
+
 
 ![首页](https://github.com/thunder439/QNAS4/blob/main/%E9%A6%96%E9%A1%B5.png)
